@@ -4,7 +4,7 @@
 &nbsp;
 
 - 🌱 I’m currently learning **Python | AWS**
-- 👔 I aspire to be: **Product/Project Manager, QA Engineer, Full Stack Developer**
+- 👔 Roles I'm interested in: **Product/Project Manager, QA Engineer, Full Stack Developer**
 - 💬 Ask me about **Good Eats**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy retaining knowledge on the most random facts about literally anything. Especially sports related**
