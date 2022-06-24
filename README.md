@@ -24,6 +24,9 @@
 
 <h3 align="left">Languages, Tools & Technologies:</h3>
 <p align="left"> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+                  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/aws.svg" alt="aws" width="50" height="50" />
+                </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
   </a> 
