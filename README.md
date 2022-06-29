@@ -92,4 +92,4 @@
 
 ----
 
-![](https://komarev.com/ghpvc/?username=skcruzer&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=skcruzer&label=Visitors)
