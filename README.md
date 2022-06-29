@@ -7,7 +7,7 @@
 - 👔 Roles I'm interested in: **Program/Product/Project Management, QA Engineer, Full Stack Developer**
 - 💬 Ask me about **Good Eats**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy retaining knowledge on the most random facts about literally anything. Especially sports related**
+- ⚡ Fun fact: **I played water polo for the Philippines national team**
 - 📫  <a href="mailto:seankennethcruz@gmail.com">seankennethcruz@gmail.com</a>
 &nbsp;&nbsp;
 
