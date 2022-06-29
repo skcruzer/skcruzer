@@ -3,7 +3,7 @@
 <h3 align="center">I am a developer currently open to work! I am passionate about quality & efficiency. Using my operations, psychology and QA background, I aim to enhance users' experiences by ensuring they receive the best possible product period. </h3>
 &nbsp;
 
-- 🌱 I’m currently learning: **Python | TypeScript**
+- 🌱 I’m currently learning: **SDLC | AWS | TypeScript**
 - 👔 Roles I'm interested in: **Program/Product/Project Management, QA Engineer, Full Stack Developer**
 - 💬 Ask me about **Good Eats**
 - 😄 Pronouns: **He/Him**
