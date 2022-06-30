@@ -8,7 +8,8 @@
 - 💬 Ask me about **Good Eats**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I played water polo for the Philippines national team**
-- 📫  <a href="mailto:seankennethcruz@gmail.com">seankennethcruz@gmail.com</a>
+- 🖥️ Check out my <a href="https://skcruzer.github.io/portfolioskc/" target="_blank" rel="noreferrer"> Website</a>
+- 📫  <a href="mailto:seankennethcruz@gmail.com" target="_blank" rel="noreferrer">seankennethcruz@gmail.com</a>
 &nbsp;&nbsp;
 
 ----
